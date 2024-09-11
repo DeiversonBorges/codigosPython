@@ -1,3 +1,3 @@
 nome=input()
-oi
-print("a")
+
+print(nome)
